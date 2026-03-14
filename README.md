@@ -1,44 +1,44 @@
-# GrandRP Family Activity Bot
+# GrandRP Familien Aktivitäts Bot
 
-A Discord bot designed to track and manage **family activities for GrandRP** communities.
-This bot helps families monitor member participation, manage activity logs, and keep an organized overview of contributions within the family.
+Ein Discord-Bot zur **Erfassung und Verwaltung von Familienaktivitäten für GrandRP**.
+Der Bot hilft dabei, die Aktivität von Familienmitgliedern zu überwachen, Beiträge zu erfassen und eine übersichtliche Struktur innerhalb der Familie zu behalten.
 
-## Features
+## Funktionen
 
-* 📊 **Activity Tracking** – Automatically records and tracks family member activities.
-* 👥 **Member Management** – Manage family members and their activity status.
-* 💰 **Contribution / Balance System** – Track member contributions and balances.
-* 📅 **Daily Updates** – Automatically updates activity lists and statistics.
-* 🔄 **Auto Refresh** – Keeps activity and balance lists up to date.
-* ⚙️ **Customizable Configuration** – Easily adapt the bot to your family's structure.
+* 📊 **Aktivitäts-Tracking** – Erfasst automatisch Aktivitäten von Familienmitgliedern.
+* 👥 **Mitgliederverwaltung** – Übersicht über Mitglieder und deren Aktivität.
+* 💰 **Beitrags / Guthaben-System** – Verwaltung von Beiträgen oder Guthaben innerhalb der Familie.
+* 📅 **Automatische Updates** – Aktualisiert Aktivitätslisten und Statistiken regelmäßig.
+* 🔄 **Automatische Aktualisierung** – Listen und Daten bleiben immer aktuell.
+* ⚙️ **Anpassbare Konfiguration** – Der Bot kann an die Struktur eurer Familie angepasst werden.
 
-## Use Case
+## Zweck
 
-This bot is specifically built for **GrandRP families** who want to:
+Dieser Bot wurde speziell für **GrandRP Familien** entwickelt, um:
 
-* Track member participation
-* Monitor activity levels
-* Maintain fair contribution systems
-* Keep structured family records inside Discord
+* die Aktivität der Mitglieder zu überwachen
+* Beteiligungen und Beiträge zu tracken
+* eine faire Übersicht über Leistungen zu behalten
+* eine organisierte Familienstruktur auf Discord zu schaffen
 
-## Requirements
+## Voraussetzungen
 
-* Python 3.10+
+* Python 3.10 oder neuer
 * discord.py
 * pytz
 
-## Setup
+## Installation
 
-1. Clone the repository
-2. Install dependencies
-3. Add your Discord bot token
-4. Configure channels and roles
-5. Start the bot
+1. Repository klonen
+2. Abhängigkeiten installieren
+3. Discord Bot Token eintragen
+4. Kanäle und Rollen konfigurieren
+5. Bot starten
 
-## Disclaimer
+## Hinweis
 
-This project is a **community tool** and is **not affiliated with GrandRP**.
+Dieses Projekt ist ein **Community-Tool** und steht **in keiner offiziellen Verbindung zu GrandRP**.
 
 ---
 
-Made for GrandRP families who want better organization and transparency.
+Entwickelt für GrandRP Familien, die ihre Organisation und Aktivität besser verwalten möchten.
