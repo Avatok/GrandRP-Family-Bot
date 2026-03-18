@@ -1,0 +1,29 @@
+Übersicht aller Bot-Befehle & Aktivitäten
+Bot-Befehle (Commands)
+
+!leaderboard
+Wer: Jeder
+Funktion: Zeigt die Top 10 Spieler nach Guthaben aus dem Credit-Channel.
+
+!refresh_activities
+Wer: Nur Manager
+Funktion: Löscht alle Aktivitätsnachrichten vom Bot und postet sie neu. Guthaben bleibt unverändert.
+
+!add_credit @User <Betrag>
+Wer: Nur Manager
+Funktion: Fügt dem genannten User Guthaben hinzu.
+Beispiel: !add_credit @User 50 → @User bekommt 50 Credits.
+
+!remove_credit @User <Betrag>
+Wer: Nur Manager
+Funktion: Entfernt Guthaben vom User (nicht negativ).
+Beispiel: !remove_credit @User 20 → @User verliert 20 Credits.
+
+!set_credit @User <Betrag>
+Wer: Nur Manager
+Funktion: Setzt das Guthaben eines Users auf einen bestimmten Wert.
+Beispiel: !set_credit @User 100 → @User hat genau 100 Credits.
+
+!clear_credits
+Wer: Nur Manager
+Funktion: Löscht komplett alle Guthaben in der Liste.
